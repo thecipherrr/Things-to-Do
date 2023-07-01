@@ -1,13 +1,9 @@
 
-<div align="center">
-
 <img src="console.png" align="center" width="144"/>
 
 # Games and Activities 
 
 > A collection of games and activities ideas over long distance.
-
-</div>
 
 ## Contents
 
@@ -19,21 +15,21 @@
 
 Two-player nuzlocke with basic nuzlocke rules such as:
 
-- Fainted pokemon are considered dead and must be either boxed or released into the wild
-- Only one encounter per area, failure to catch the pokemon means no new pokemon until next area
-- No overleveling past the gym leaders strongest Pokemon
-- All Pokemon must be nicknamed
+> - Fainted pokemon are considered dead and must be either boxed or released into the wild
+> - Only one encounter per area, failure to catch the pokemon means no new pokemon until next area
+> - No overleveling past the gym leaders strongest Pokemon
+> - All Pokemon must be nicknamed
 
 Soul Link rules:
 
-- Two players play through the same game (or different games in the same generation) simultaneously
-- Encounters for players on each route are linked. If one player fails to catch their encounter for a route.
+> - Two players play through the same game (or different games in the same generation) simultaneously
+> - Encounters for players on each route are linked. If one player fails to catch their encounter for a route.
 the other player must box or release their encounter for that route as well. If both players successfully catch their
 first encounter for the route, those two Pokemon are "linked" as partners.
-- When one player's Pokemon faints, its partner on the other player's team must be boxed or released as well.
-- If a Pokemon is placed in the PC, its partner on the other player's team must be placed in the PC as well.
-- No Pokemon on either team may share a type.
-- Each encounter is randomized.
+> - When one player's Pokemon faints, its partner on the other player's team must be boxed or released as well.
+> - If a Pokemon is placed in the PC, its partner on the other player's team must be placed in the PC as well.
+> - No Pokemon on either team may share a type.
+> - Each encounter is randomized.
 
 
 ### Installation
