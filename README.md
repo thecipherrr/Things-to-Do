@@ -34,9 +34,9 @@ first encounter for the route, those two Pokemon are "linked" as partners.
 
 1. Clone or download the GitHub repository
 
-  - Click on the **Code** button and click **Download ZIP**
-  
-  - The folder contains the **Universal Randomizer** and an emulator (**DesMuMe**)
+     - Click on the **Code** button and click **Download ZIP**
+     
+     - The folder contains the **Universal Randomizer** and an emulator (**DesMuMe**)
 
 2. Each person downloads a Pokemon ROM from [this website](https://r-roms.github.io/megathread/popular/#pokemon)
 
