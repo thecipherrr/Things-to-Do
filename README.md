@@ -1,7 +1,5 @@
 
-<img src="console.png" align="center" width="144"/>
-
-# Games and Activities 
+# Games and Activities <img src="console.png" align="right" width="144"/>
 
 > A collection of games and activities ideas over long distance.
 
@@ -36,8 +34,17 @@ first encounter for the route, those two Pokemon are "linked" as partners.
 
 1. Clone or download the GitHub repository
 
-2. Each person downloads a Pokemon ROM from [Pokemon ROM GitHub](https://r-roms.github.io/megathread/popular/#pokemon)
+> Click on the **Code** button and click **Download ZIP**
 
+> The folder contains the **Universal Randomizer** and an emulator (**DesMuMe**)
+
+2. Each person downloads a Pokemon ROM from [this website](https://r-roms.github.io/megathread/popular/#pokemon)
+
+3. Open the **Universal Randomizer** and randomize the desired encounter from the downloaded ROM 
+
+4. Load up the randomized ROM into the emulator
+
+5. Enjoy the run!
 
 ### Jaiden Animation's Playthrough
 
