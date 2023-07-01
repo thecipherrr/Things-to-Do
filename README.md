@@ -20,7 +20,7 @@ Two-player nuzlocke with basic nuzlocke rules such as:
 > - No overleveling past the gym leaders strongest Pokemon
 > - All Pokemon must be nicknamed
 
-Soul Link rules:
+with Soul Link rules:
 
 > - Two players play through the same game (or different games in the same generation) simultaneously
 > - Encounters for players on each route are linked. If one player fails to catch their encounter for a route.
@@ -36,7 +36,7 @@ first encounter for the route, those two Pokemon are "linked" as partners.
 
 1. Clone or download the GitHub repository
 
-2. Each person downloads a Pokemon ROM from ![Pokemon ROM GitHub](https://r-roms.github.io/megathread/popular/#pokemon)
+2. Each person downloads a Pokemon ROM from [Pokemon ROM GitHub](https://r-roms.github.io/megathread/popular/#pokemon)
 
 
 ### Jaiden Animation's Playthrough
